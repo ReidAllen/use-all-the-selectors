@@ -47,7 +47,7 @@ ol li:last-child {
 }
 
 .types li:nth-child(odd) {
-  background-color: #2aa198;
+  background-color: #657ba3;
 }
 
 .types li:nth-child(even) {
